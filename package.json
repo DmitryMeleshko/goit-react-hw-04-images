@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-04-image-finder",
+  "name": "goit-react-hw-04-images",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmitrymeleshko.github.io/goit-react-hw-04-image-finder",
+  "homepage": "https://dmitrymeleshko.github.io/goit-react-hw-04-images",
   "dependencies": {
     "@emotion/styled": "^11.10.6",
     "@haensl/react-hooks": "^1.12.1",
