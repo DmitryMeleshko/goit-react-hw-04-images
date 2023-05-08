@@ -39,8 +39,7 @@ export function App() {
           toast.error(`No results were found for ${query}`);
           setIsLoading(false);
           setPerPageImg(null);
-          return;
-        }
+          return;}
 
         const images = imagesArray(hits);
 
